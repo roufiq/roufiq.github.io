@@ -5,8 +5,8 @@ logo: /roufiq.github.io/static/img/roufiq.jpg
 github: https://github.com/roufiq
 about: IPDS BPS Kabupaten Simeulue
 
-baseurl: "https://roufiq.github.io/"
-url: "https://roufiq.github.io/"
+baseurl: "https://roufiq.github.io"
+url: "https://roufiq.github.io"
 
 allowsearch: true
 
